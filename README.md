@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React JS is a framework built on top of JS which allows reusable UI components to be easily built. Its main function is to display data on the screen and is reactive to user input or changes in data it's showing.
+
 - [ ] What does it mean to _think_ in react?
+
+Approach challenges in small sections.
 
 - [ ] Describe state.
 
+Object on a class component which holds data which can "react" to input
+
 - [ ] Describe props.
+
+Data passed between components, the data can only go down and not up. 
 
 ## Project Set Up
 
